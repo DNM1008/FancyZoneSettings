@@ -18,8 +18,8 @@ As of right now, you can't just download this file and then replace this file in
 
 ## Recommendations
 
-* You might want to enable Override Windows Snap shortcut, then chose Win+Up/Down/Left?Right to move windows based on relative positions, since we have a lot of zones, moving through all of them to get to the layout that you want is a pain
-* If you have multiple monitors, enable Move windows between zones acroos all monitors
+* You might want to enable Override Windows Snap shortcut, then chose Win+Up/Down/Left/Right to move windows based on relative positions, since we have a lot of zones, moving through all of them to get to the layout that you want is a pain
+* If you have multiple monitors, enable Move windows between zones a cross all monitors
 
 ## Zone Layout:
 
