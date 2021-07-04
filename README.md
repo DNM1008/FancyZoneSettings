@@ -4,11 +4,11 @@ My FancyZoneSettings.json file
 ## Installation
 
 As of right now, you can't just download this file and then replace this file into your FancyZone setting folder to get the custom layout that I have. This is intended for **1080p displays only**. If you want to try my layout, you will need to do the following:
+* Create a new layout, name it to whatever you like, but set the type to Canvas (So that zones can be placed over lapping each other), make a couple of zones so that (you will delete these with your custom zones later so don't worry, this is only to make sure that the layout is created correctly)
 * Disable PowerToys (this is very important)
 * Look in the <code>"custom-zone-sets" </code>
 * Select and Copy the section <code>"zones"</code>
 * Open your FancyZone editor, normally <code>Win+`</code>
-* Create a new layout, name it to whatever you like, but set the type to Canvas (So that zones can be placed over lapping each other), make a couple of zones so that (you will delete these with your custom zones later so don't worry, this is only to make sure that the layout is created correctly)
 * Go to %LOCALAPPDATA%\Microsoft\PowerToys\FancyZones, there you should find a file called <code>zones-settings.json</code>, open (edit) it with your preferred text editor
 * Go down to <code>"custom-zone-sets"</code>, then look for <code>"zones"</code> (should be a couple of lines below if this is your only custom layout)
 * Select the zones that you have created and paste the zones you copied (replace the dummy zones that you have created with the ones that you want)
