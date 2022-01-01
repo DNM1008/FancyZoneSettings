@@ -1,7 +1,6 @@
-
-    "custom-zone-sets": [
+"custom-zone-sets": [
         {
-            "uuid": "{4768B0D4-9D07-4E50-92A5-DEF30667166B}",
+            "uuid": "{9CFD4ECD-1492-4BBF-8411-4BA22C95E319}",
             "name": "Grid gap 6",
             "type": "canvas",
             "info": {
@@ -119,6 +118,88 @@
                 ],
                 "sensitivity-radius": 20
             }
+        },
+        {
+            "uuid": "{396681D8-3737-4043-9317-F5C27EFAB016}",
+            "name": "Grid gap 6 Portrait",
+            "type": "canvas",
+            "info": {
+                "ref-width": 1920,
+                "ref-height": 1080,
+                "zones": [
+                    {
+                        "X": 6,
+                        "Y": 6,
+                        "width": 531,
+                        "height": 1908
+                    },
+                    {
+                        "X": 543,
+                        "Y": 6,
+                        "width": 531,
+                        "height": 1908
+                    },
+                    {
+                        "X": 6,
+                        "Y": 6,
+                        "width": 531,
+                        "height": 951
+                    },
+                    {
+                        "X": 6,
+                        "Y": 963,
+                        "width": 531,
+                        "height": 951
+                    },
+                    {
+                        "X": 543,
+                        "Y": 6,
+                        "width": 531,
+                        "height": 951
+                    },
+                    {
+                        "X": 543,
+                        "Y": 963,
+                        "width": 531,
+                        "height": 951
+                    },
+                    {
+                        "X": 6,
+                        "Y": 6,
+                        "width": 1068,
+                        "height": 632
+                    },
+                    {
+                        "X": 6,
+                        "Y": 644,
+                        "width": 1068,
+                        "height": 632
+                    },
+                    {
+                        "X": 6,
+                        "Y": 1282,
+                        "width": 1068,
+                        "height": 632
+                    },
+                    {
+                        "X": 6,
+                        "Y": 6,
+                        "width": 1068,
+                        "height": 951
+                    },
+                    {
+                        "X": 6,
+                        "Y": 963,
+                        "width": 1068,
+                        "height": 951
+                    },
+                    {
+                        "X": 6,
+                        "Y": 6,
+                        "width": 1068,
+                        "height": 1908
+                    }
+                ],
+                "sensitivity-radius": 20
+            }
         }
-    ],
-    
